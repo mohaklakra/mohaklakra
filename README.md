@@ -49,9 +49,8 @@ I design with as much passion as I code — sometimes I even "debug" my **Canva*
 ---
 
 ## 📧 Let's Connect:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohak-lakra-5a76a0294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BhfIGCb5Sp29rR8QvTLBjw%3D%3D)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohaklakra551@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mohaklakra/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohaklakra/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohaklakra@gmail.com)  
 
 ---
 
@@ -84,6 +83,7 @@ I design with as much passion as I code — sometimes I even "debug" my **Canva*
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohaklakra&theme=radical&no-frame=true&column=9" />
 </p>
+
 ---
 
 ## 👀 Profile Views:  
@@ -100,4 +100,5 @@ As a **UX/UI designer**, I embrace **simplicity** and **user-centric design**. E
 ---
 
 ## 🚀 "Keep Exploring, Keep Building!"  
-🔗 **Portfolio Website**: **Coming Soon** 🚀
+🔗 **Portfolio Website**: [Visit Here](https://lakra-design-stories-online.vercel.app/)  
+📖 **Medium Page**: [Read My Stories](https://medium.com/@mohaklakra551)
