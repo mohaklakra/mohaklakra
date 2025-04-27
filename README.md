@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there 👋, I'm Mohak Lakra!
 
-<!--
-**mohaklakra/mohaklakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+✨ I'm a passionate Computer Science Engineering student from India!
+✨ Love blending tech and creativity to solve real-world problems.
+✨ Enthusiastic about AI, IoT, Web Dev, and Design.
 
-Here are some ideas to get you started:
+🛠️ Skills & Technologies
+Languages: C, Java, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Git, Canva, Figma
+
+Special Interests: UX/UI Design 🎨, Smart Automation 🤖
+
+🌱 Currently Learning
+
+🎨 Exploring UX Design Principles
+
+🤖 Building AI-based personal projects
+
+🤝 Let's Collaborate
+✨ Open-source contributions
+
+✨ MERN stack development
+
+✨ AI-IoT Innovations
+
+✨ Fun Fact
+I design with as much passion as I code —
+sometimes I even "debug" my Canva layouts! 😄🎨
+
+📫 Let's Connect!
+📧 Email: mohaklakra@gmail.com
+
+💼 LinkedIn: (https://www.linkedin.com/in/mohak-lakra-5a76a0294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCjt%2BsA97Q8%2B5AuZICkOGSw%3D%3D)
+
+🌐 Portfolio Website: Coming Soon 🚀
